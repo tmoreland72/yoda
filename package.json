@@ -1,0 +1,16 @@
+{
+   "name": "yoda",
+   "version": "0.0.1",
+   "description": "Uses the force to manage development projects",
+   "preferGlobal": true,
+   "bin": {
+      "yoda": "./bin/index.js"
+   },
+   "license": "MIT",
+   "dependencies": {
+      "chalk": "^4.1.0",
+      "commander": "^6.2.0",
+      "cross-spawn": "^7.0.3",
+      "inquirer": "^7.3.3"
+   }
+}
