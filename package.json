@@ -1,6 +1,6 @@
 {
    "name": "@34fame/yoda",
-   "version": "0.0.1",
+   "version": "0.0.2",
    "description": "Uses the force to manage development projects",
    "preferGlobal": true,
    "bin": {
@@ -12,9 +12,6 @@
       "commander": "^6.2.0",
       "cross-spawn": "^7.0.3",
       "inquirer": "^7.3.3"
-   },
-   "publishConfig": {
-      "registry": "https://npm.pkg.github.com/"
    },
    "repository": "git://github.com/34fame/yoda.git"
 }
