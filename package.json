@@ -15,5 +15,6 @@
    },
    "publishConfig": {
       "registry": "https://npm.pkg.github.com/"
-   }
+   },
+   "repository": "git://github.com/34fame/yoda.git"
 }
